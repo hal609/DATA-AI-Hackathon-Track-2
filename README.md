@@ -124,3 +124,51 @@ The famous **Carbon Footprint infographic** — widely shared and cited — is b
 - Make it shareable and embeddable, not just a static image
 
 This is a chance to replace an outdated but influential visualisation with something accurate, current, and interactive.
+
+---
+
+### Before You Arrive
+
+- **Choose your track**:
+  - **Track 1**: Healthcare & Digital Pharmacy
+  - **Track 2**: Earth, Environment & Climate
+- You are welcome to form teams (max 4 people) ahead of the event or on Day 1.
+- Bring your laptop and charger (cluster PCs are also available if you prefer).
+- Light refreshments and drinks will be provided, but please arrange your own lunch on both days.
+- All participants will receive a participation certificate.
+
+---
+
+### Event Timeline
+
+#### Day 1 — Monday 30 March
+
+| Time | Activity |
+|------|----------|
+| 09:30 | Registration & Welcome |
+| 10:00 | Challenge Presentations |
+| 10:30 | Group Formation & Start |
+| 13:00 | Lunch Break |
+| 14:00 | Back to Work |
+| 16:30 | Wrap-up & Close for the Day |
+
+#### Day 2 — Tuesday 31 March
+
+| Time | Activity |
+|------|----------|
+| 10:00 | Start & Updates |
+| 13:00 | Lunch |
+| 14:00 | Team Presentations to the Panel |
+| 16:00 | Panel Adjourns |
+| 16:30 | Winner Announcement |
+
+**Awards**: Prize for 1st place, award certificates for finalists, participation certificates for all teams.
+
+---
+
+### Working Hours
+
+Rooms are available until 16:30 daily. Students may continue working afterwards in other 24-hour clusters if they wish, but this is optional — make sure you take breaks and rest.
+
+We look forward to an exciting two days of collaborative problem-solving and innovation!
+

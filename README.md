@@ -2,7 +2,7 @@
 Health &amp; Environment Challenge for the Data&amp;AI Hackathon , 29-30 March, University of Leeds
 # Hackathon Data Guide: Global Energy & Emissions
 
-## What's in this folder
+## What's in this folder?
 
 We've downloaded and organised **386 CSV files** from the U.S. Energy Information Administration (EIA) international energy dataset, covering **231 countries from 1980 to 2023**.
 

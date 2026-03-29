@@ -157,7 +157,7 @@ This is a chance to replace an outdated but influential visualisation with somet
 | Time | Activity |
 |------|----------|
 | 10:00 | Start & Updates |
-| 13:00 | Lunch |
+| 13:00 | Submission Deadline & Lunch |
 | 14:00 | Team Presentations to the Panel |
 | 16:00 | Panel Adjourns |
 | 16:30 | Winner Announcement |

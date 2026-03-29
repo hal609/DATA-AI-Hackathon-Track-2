@@ -166,6 +166,38 @@ This is a chance to replace an outdated but influential visualisation with somet
 
 ---
 
+### Day 2 Submission Instructions
+
+**Submission deadline: 13:00 on Tuesday 31 March** (before lunch).
+
+A submission form will be circulated where each team must provide:
+
+1. **Track entered** (Track 1 or Track 2)
+2. **Team members** — names and email addresses for all members
+3. **GitHub repository link** — the repo **must be public** by the submission deadline
+
+#### What your repo must contain
+
+At a minimum:
+
+- A **README file** with clear instructions on how to run your code to reproduce the output you are presenting. This includes: dependencies, data setup steps, and the command(s) to run.
+- Your **code** (notebooks, scripts, or app).
+- Any **output files** referenced in your presentation.
+
+#### What we will check
+
+- The repo is public and accessible.
+- The README instructions are sufficient to run the code.
+- Minimum reproducibility checks will be run to verify the code executes and the output matches what you describe in your presentation.
+
+#### Presentation (14:00–16:00)
+
+- **~5 minutes per team** — keep it focused.
+- Walk us through your steps, show your output, and demonstrate your critical thinking.
+- The panel will ask brief follow-up questions.
+  
+---
+
 ### Working Hours
 
 Rooms are available until 16:30 daily. Students may continue working afterwards in other 24-hour clusters if they wish, but this is optional — make sure you take breaks and rest.

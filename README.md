@@ -1,5 +1,5 @@
 # DATA-AI-Hackathon-Track-2
-Health &amp; Environment Challenge for the Data&amp;AI Hackathon , 29-30 March, University of Leeds
+Health &amp; Environment Challenge for the Data&amp;AI Hackathon , 30-31 March, University of Leeds
 # Hackathon Data Guide: Global Energy & Emissions
 
 ## What's in this folder?
